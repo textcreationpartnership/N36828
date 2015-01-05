@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:048207_0000_102527A3CFA3FB88"/>
-            <pb facs="tcp:048207_0001_102527B626552BE0"/>
+            <pb facs="unknown:048207_0000_102527A3CFA3FB88"/>
+            <pb facs="unknown:048207_0001_102527B626552BE0"/>
             <p>THE NIGHTINGALE.</p>
             <p>A COLLECTION OF THE <hi>MOST ELEGANT</hi> SONGS, NOW IN VOGUE.</p>
             <q>The charms of ſweet muſic no pencil can paint.</q>
@@ -118,7 +118,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:048207_0002_102527CF7A226688"/>
+            <pb facs="unknown:048207_0002_102527CF7A226688"/>
             <head>THE NIGHTINGALE.</head>
             <div type="song">
                <head>ROSTIN CASTLE.</head>
@@ -280,7 +280,7 @@
                         <desc>••</desc>
                      </gap> the ſpring,</l>
                   <l>
-                     <pb n="4" facs="tcp:048207_0003_102527DC65AD9970"/>
+                     <pb n="4" facs="unknown:048207_0003_102527DC65AD9970"/>
 Tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>e graces that divinely ſh<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -531,7 +531,7 @@ Tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•••</desc>
                      </gap>d,</l>
                   <l>
-                     <pb n="5" facs="tcp:048207_0004_102527F8D6852EB8"/>
+                     <pb n="5" facs="unknown:048207_0004_102527F8D6852EB8"/>
 The huſband gets up, at the ſound of the horn,</l>
                   <l>And rides to the commons full ſpeed;</l>
                   <l>The patriot is thrown in purſuit of his game,</l>
@@ -590,7 +590,7 @@ The huſband gets up, at the ſound of the horn,</l>
                   <l>There's no drinking in the grave.</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:048207_0005_10252809B38B09B0"/>
+                  <pb n="6" facs="unknown:048207_0005_10252809B38B09B0"/>
                   <l>When Death comes, we'll ſay, good fellow,</l>
                   <l>Take a glaſs, ſit down by me;</l>
                   <l>Drink with us until you're mellow,</l>
@@ -641,7 +641,7 @@ The huſband gets up, at the ſound of the horn,</l>
                   <l>Heavens bleſs my voyage with ſucceſs.</l>
                   <l>While croſſing of the raging main,</l>
                   <l>
-                     <pb n="7" facs="tcp:048207_0006_1025282460883388"/>
+                     <pb n="7" facs="unknown:048207_0006_1025282460883388"/>
 And ſend me ſafe o'er to that diſtant ſhore,</l>
                   <l>To meet my lovely darling ſwain.</l>
                </lg>
@@ -690,7 +690,7 @@ And ſend me ſafe o'er to that diſtant ſhore,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="8" facs="tcp:048207_0007_10252839DDB1F590"/>
+               <pb n="8" facs="unknown:048207_0007_10252839DDB1F590"/>
                <head>RURAL FELICITY.</head>
                <lg>
                   <l>COME haſte to the wedding, ye friends and ye neighbors,</l>
@@ -750,7 +750,7 @@ And ſend me ſafe o'er to that diſtant ſhore,</l>
                      <desc>〈8 pages missing〉</desc>
                   </gap>
                   <l>
-                     <pb n="17" facs="tcp:048207_0008_102528525A4ECD60"/>
+                     <pb n="17" facs="unknown:048207_0008_102528525A4ECD60"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the bells and ſill the bowls,</l>
@@ -907,7 +907,7 @@ And ſend me ſafe o'er to that diſtant ſhore,</l>
                      </gap>ain.</l>
                </lg>
                <lg>
-                  <pb n="18" facs="tcp:048207_0009_102528718735B7E8"/>
+                  <pb n="18" facs="unknown:048207_0009_102528718735B7E8"/>
                   <l>Remember the arrows he ſhot from his bow,</l>
                   <l>Remember the chiefs by his ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -969,7 +969,7 @@ And ſend me ſafe o'er to that diſtant ſhore,</l>
                   <l>Treads the mazes toward the mountain top</l>
                </lg>
                <lg>
-                  <pb n="19" facs="tcp:048207_0010_1025288896D9B370"/>
+                  <pb n="19" facs="unknown:048207_0010_1025288896D9B370"/>
                   <l>Though ſo melancholy, day has paſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>'d by,</l>
@@ -1024,7 +1024,7 @@ And ſend me ſafe o'er to that diſtant ſhore,</l>
                   <l>Let the fore ſheet go, don't mind, boys,</l>
                   <l>Though the weather may be worſe,</l>
                   <l>
-                     <pb n="20" facs="tcp:048207_0011_102528A49F4DD6F8"/>
+                     <pb n="20" facs="unknown:048207_0011_102528A49F4DD6F8"/>
 F<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>e and aft the ſprit-ſail yard get,</l>
@@ -1104,7 +1104,7 @@ F<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <l>Come, the can, boys! let's be drinking</l>
                   <l>To our ſweet-hearts and our wives.</l>
                   <l>
-                     <pb n="21" facs="tcp:048207_0012_102528BE8E4388F8"/>
+                     <pb n="21" facs="unknown:048207_0012_102528BE8E4388F8"/>
 Fill it up, about ſhip wheel it,</l>
                   <l>Cloſe to our lips a brimmer join,</l>
                   <l>Where's the tempeſt now, who feels it?</l>
@@ -1171,7 +1171,7 @@ Fill it up, about ſhip wheel it,</l>
                   <l>In the cool ſummer's bower, where were violets and flowers,</l>
                   <l>And zephyrs had blown them around,</l>
                   <l>
-                     <pb n="22" facs="tcp:048207_0013_102528EBB6C54938"/>
+                     <pb n="22" facs="unknown:048207_0013_102528EBB6C54938"/>
 Lovely Sally ſhe ſat and ſhe tun'd her ſpinnet,</l>
                   <l>And ſhe charm'd all the groves with the ſound.</l>
                </lg>
@@ -1228,7 +1228,7 @@ Lovely Sally ſhe ſat and ſhe tun'd her ſpinnet,</l>
                         <desc>••</desc>
                      </gap>e</l>
                   <l>
-                     <pb n="23" facs="tcp:048207_0014_1025290711090DB0"/>
+                     <pb n="23" facs="unknown:048207_0014_1025290711090DB0"/>
 Has all thoſe deſtin'd gifts in ſtore,</l>
                   <l>And each returning day brings more;</l>
                   <l>No youth ſo happy can be ſeen,</l>
@@ -1281,7 +1281,7 @@ Has all thoſe deſtin'd gifts in ſtore,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="24" facs="tcp:048207_0015_1025291A39289180"/>
+               <pb n="24" facs="unknown:048207_0015_1025291A39289180"/>
                <head>SONG TO BACCHUS.</head>
                <lg>
                   <l>YE lads of true ſpirit, pay courtſhip to claret,</l>
@@ -1335,7 +1335,7 @@ Has all thoſe deſtin'd gifts in ſtore,</l>
                   <l>Right hand to glaſs join—at your lips reſt you<g ref="char:EOLhyphen"/>wine;</l>
                   <l>Be all in your exerciſe ſteady.</l>
                   <l>
-                     <pb n="25" facs="tcp:048207_0016_10252931771931B0"/>
+                     <pb n="25" facs="unknown:048207_0016_10252931771931B0"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> we boaſt when our women we <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1441,7 +1441,7 @@ Has all thoſe deſtin'd gifts in ſtore,</l>
                         <desc>•••</desc>
                      </gap>al be,</l>
                   <l>
-                     <pb n="26" facs="tcp:048207_0017_102529489A22D778"/>
+                     <pb n="26" facs="unknown:048207_0017_102529489A22D778"/>
 While each pretty miſs, ſir,</l>
                   <l>We'll ſmuggle and kiſs, ſir,</l>
                   <l>And pull'em, and haul 'em,</l>
@@ -1497,7 +1497,7 @@ While each pretty miſs, ſir,</l>
                      </gap> is law, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="27" facs="tcp:048207_0018_102529631D7A72A0"/>
+                  <pb n="27" facs="unknown:048207_0018_102529631D7A72A0"/>
                   <l>When gracious Anne aſcends the throne.</l>
                   <l>The church of England's glory,</l>
                   <l>Another face of things was ſeen,</l>
@@ -1552,7 +1552,7 @@ While each pretty miſs, ſir,</l>
                         <desc>••</desc>
                      </gap>ve;</l>
                   <l>
-                     <pb n="28" facs="tcp:048207_0019_102529765A92C7B8"/>
+                     <pb n="28" facs="unknown:048207_0019_102529765A92C7B8"/>
 W<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>e will make the coward brave,</l>
@@ -1625,7 +1625,7 @@ W<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <l>She lay ſo it did ſnock her,</l>
                   <l>A log upon the main</l>
                   <l>
-                     <pb n="29" facs="tcp:048207_0020_102529A105E70C20"/>
+                     <pb n="29" facs="unknown:048207_0020_102529A105E70C20"/>
 Till ſav'd from Davy's locker,</l>
                   <l>We put to ſea again.</l>
                </lg>
@@ -1680,7 +1680,7 @@ Till ſav'd from Davy's locker,</l>
                      </gap>e ther,</l>
                   <l>When he who all commands</l>
                   <l>
-                     <pb n="30" facs="tcp:048207_0021_102529BB26A14070"/>
+                     <pb n="30" facs="unknown:048207_0021_102529BB26A14070"/>
 Shall give, to call life's crew together,</l>
                   <l>The word to pipe all hands.</l>
                   <l>Thus death who kings and tars diſpatches,</l>
@@ -1732,7 +1732,7 @@ Shall give, to call life's crew together,</l>
                   <l>Bliſs that is worth poſſeſſing.</l>
                </lg>
                <lg>
-                  <pb n="31" facs="tcp:048207_0022_102529DBEB3080D8"/>
+                  <pb n="31" facs="unknown:048207_0022_102529DBEB3080D8"/>
                   <l>Happy the man who has a friend</l>
                   <l>Form'd hy the God of nature;</l>
                   <l>Well may he feel and recommend</l>
@@ -1789,7 +1789,7 @@ Shall give, to call life's crew together,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="32" facs="tcp:048207_0023_1024A55C0A4EDEC8"/>
+               <pb n="32" facs="unknown:048207_0023_1024A55C0A4EDEC8"/>
                <head>PIPE OF TOBACCO.</head>
                <lg>
                   <l>TOBACCO is an Indian weed,</l>
@@ -1845,7 +1845,7 @@ Shall give, to call life's crew together,</l>
                   <l>I looked up high, I looked down low,</l>
                   <l>The ſun it ſnown wonderful warm,</l>
                   <l>
-                     <pb n="33" facs="tcp:048207_0024_102529F8E9013910"/>
+                     <pb n="33" facs="unknown:048207_0024_102529F8E9013910"/>
 And who did I ſpy, but my bonny, bonny bo</l>
                   <l>With another girl clos'd in his arms.</l>
                </lg>
@@ -1913,7 +1913,7 @@ And who did I ſpy, but my bonny, bonny bo</l>
                      <desc>〈◊〉</desc>
                   </gap> hobby, &amp;c.</p>
                <lg>
-                  <pb n="34" facs="tcp:048207_0025_10252A3204EF32E8"/>
+                  <pb n="34" facs="unknown:048207_0025_10252A3204EF32E8"/>
                   <l>The hobbies of ſoldiers, in time of great wars,</l>
                   <l>Are bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1978,7 +1978,7 @@ And who did I ſpy, but my bonny, bonny bo</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="35" facs="tcp:048207_0026_10252A41192F20D8"/>
+                     <pb n="35" facs="unknown:048207_0026_10252A41192F20D8"/>
 From you, I am wild, deſpairing;</l>
                   <l>With you, ſpeechleſs as I touch!</l>
                   <l>This is all that bears declaring</l>
@@ -2058,7 +2058,7 @@ From you, I am wild, deſpairing;</l>
                         <desc>〈◊〉</desc>
                      </gap>,</l>
                   <l>
-                     <pb n="36" facs="tcp:048207_0027_10252A552CFAF420"/>
+                     <pb n="36" facs="unknown:048207_0027_10252A552CFAF420"/>
 When a bold enemy appeared,</l>
                   <l>And, dauntieſs, we prepared for battle.</l>
                   <l>Like lightning, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2113,7 +2113,7 @@ When a bold enemy appeared,</l>
                         <desc>••</desc>
                      </gap>e I left my poor plough to go ploughing the deep,</l>
                   <l>
-                     <pb n="37" facs="tcp:048207_0028_10252A686E72F9D8"/>
+                     <pb n="37" facs="unknown:048207_0028_10252A686E72F9D8"/>
 When ſweetly the horn</l>
                   <l>Call'd me up in the morn;</l>
                   <l>Fre I truſted to the carpenter and the inconſtant wind,</l>
@@ -2186,7 +2186,7 @@ When ſweetly the horn</l>
                      </gap>ks I hear my lover's voice,</l>
                </lg>
                <lg>
-                  <pb n="38" facs="tcp:048207_0029_10252A814160AD28"/>
+                  <pb n="38" facs="unknown:048207_0029_10252A814160AD28"/>
                   <l>There's the rock, the hill, the tree,</l>
                   <l>Hark! a voice! methinks 'tis he;</l>
                   <l>'Ris not he, ſtill night comes on,</l>
@@ -2270,7 +2270,7 @@ When ſweetly the horn</l>
                      </gap>ſes,</l>
                   <l>Victorious George they proclaim—</l>
                   <l>
-                     <pb n="39" facs="tcp:048207_0030_10252A8EC7FFF558"/>
+                     <pb n="39" facs="unknown:048207_0030_10252A8EC7FFF558"/>
 Columbia now prepare, ye my loves triumphal car,</l>
                   <l>And let ſame thout my conquerors name.</l>
                </lg>
@@ -2356,7 +2356,7 @@ Columbia now prepare, ye my loves triumphal car,</l>
                      </gap> till you die—you may.</l>
                </lg>
                <lg>
-                  <pb n="40" facs="tcp:048207_0031_10252AA682C44850"/>
+                  <pb n="40" facs="unknown:048207_0031_10252AA682C44850"/>
                   <l>As he was a ſtrolling along the highway,</l>
                   <l>Not heeding their jeſts or their jokes,</l>
                   <l>He kiſs'd the prioſt's wife which cauſed much ſtrife,</l>
